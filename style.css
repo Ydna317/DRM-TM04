@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+    padding: 0;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 5%; 
+    margin-right: 5%;
+    color: white;
+}
+
+.col-lg-12 {
+    text-align: center;
+    font-size: 66px;
+    font-family: "copperplate", fantasy;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 90%;
+    height: 60px;
+    background-color: transparent;
+}
+
+.navbar {
+    font-size: 25px;
+}
+
+.navbar-brand {
+    font-size: 15px;
+}
+
+.card {
+    color: black;
+}
